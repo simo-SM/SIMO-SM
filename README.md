@@ -8,14 +8,14 @@
 - [Network-Communication-detector](https://github.com/simo-SM/Network-Communication-detector)
 - [Cyber-File](https://github.com/simo-SM/Cyber-File)
 
-## 👯 I’m looking to collaborate on:
+##  I’m looking to collaborate on:
 - Web UI ideas and open source components
 - Creative CSS/HTML landing pages
 
-## 🤝 I’m looking for help with:
+##  I’m looking for help with:
 - Security-based automation tools using Python
 
-## 🌱 I’m currently learning:
+##  I’m currently learning:
 - Flask, GitHub Actions, Responsive Web Design
 
 ## 💬 Ask me about:
