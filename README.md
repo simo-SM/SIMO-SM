@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohammed Moussaoui</h1>
+<h1 align="center">Hi, I'm Mohammed Moussaoui</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 ---
 
-## 🔭 I’m currently working on:
+## I’m currently working on:
 - [Template-html-css](https://github.com/simo-SM/Template-html-css)
 - [Network-Communication-detector](https://github.com/simo-SM/Network-Communication-detector)
 - [Cyber-File](https://github.com/simo-SM/Cyber-File)
@@ -18,27 +18,27 @@
 ##  I’m currently learning:
 - Flask, GitHub Actions, Responsive Web Design
 
-## 💬 Ask me about:
+## Ask me about:
 - React, Vue, GSAP
 
-## 📫 How to reach me:
+## How to reach me:
 - mohammed@example.com
 
 ## 👨‍💻 All of my projects are available at:
 - [My GitHub](https://github.com/simo-SM)
 
-## 📝 I regularly write articles on:
+## I regularly write articles on:
 - Soon on Hashnode / Medium
 
-## 📄 Know about my experiences:
+## Know about my experiences:
 - [View My Resume](#) <!-- Put your real resume link here -->
 
-## ⚡ Fun fact:
-- I think I am funny 😄
+## Fun fact:
+- I think I am funny 
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,c,html,css,git,figma,xd,flask" />
