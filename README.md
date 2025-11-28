@@ -22,7 +22,7 @@
 - React, Vue, GSAP
 
 ## How to reach me:
-- mohammed@example.com
+- mhammed.dev.design@email.com
 
 ## 👨‍💻 All of my projects are available at:
 - [My GitHub](https://github.com/simo-SM)
