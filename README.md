@@ -3,11 +3,11 @@
 Hi, I'm Mohammed Moussaoui 👋
 Frontend Web Developer & UI Designer — HTML, CSS, JavaScript, Figma, Adobe XD.
 
-🔭 I build responsive landing pages, interactive UI components, and convert Figma/XD designs into pixel-perfect code.
+`🔭 I build responsive landing pages, interactive UI components, and convert Figma/XD designs into pixel-perfect code.
 🌱 I enjoy working with modern CSS layouts, animations and small JS apps.
-💼 Available for freelance work — remote projects (landing pages, small web apps, design→implementation).
+💼 Available for freelance work — remote projects (landing pages, small web apps, design→implementation).`
 
-📫 Contact: [email@example.com] • WhatsApp: +2126XXXXXXXX • LinkedIn: https://www.linkedin.com/in/yourprofile
+📫 Contact: [email@example.com] • WhatsApp: +212608173585 • LinkedIn: https://www.linkedin.com/in/yourprofile
 🔗 Featured projects: 
 - Project A — Live: https://... • Code: https://github.com/...
 - Project B — Live: https://... • Code: https://github.com/...
